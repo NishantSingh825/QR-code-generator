@@ -45,6 +45,9 @@ h2 {
     cursor: pointer; 
     background: rgb(31,32,168);
 background: linear-gradient(172deg, rgba(31,32,168,1) 0%, rgba(21,255,240,1) 87%);
+&:hover{
+    background: linear-gradient(135deg, rgba(191, 57, 137, 1) 0%, rgb(55, 255, 242) 100%);
+}
     color: #eff4f6;
     font-size: 16px;
     border-radius: 10px;
